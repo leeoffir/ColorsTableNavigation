@@ -10,7 +10,7 @@ import UIKit
 
 class ColorsViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
-    var colorsTableArray = ["Red", "Orange", "Yellow", "Green", "Blue", "Purple", "B  rown"]
+    var colorsTableArray = ["Red", "Orange", "Yellow", "Green", "Blue", "Purple", "Brown"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
